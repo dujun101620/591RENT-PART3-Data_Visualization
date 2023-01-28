@@ -20,17 +20,17 @@
 
 以下為產出之圖表內容：
 
-![視覺化圖表-1](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0001.jpg?raw=true)
-![視覺化圖表-2](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0002.jpg?raw=true)
-![視覺化圖表-3](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0003.jpg?raw=true)
-![視覺化圖表-4](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0004.jpg?raw=true)
-![視覺化圖表-5](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0005.jpg?raw=true)
-![視覺化圖表-6](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0006.jpg?raw=true)
-![視覺化圖表-7](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0007.jpg?raw=true)
-![視覺化圖表-8](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0008.jpg?raw=true)
-![視覺化圖表-9](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0009.jpg?raw=true)
-![視覺化圖表-10](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0010.jpg?raw=true)
-![視覺化圖表-11](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591_page-0011.jpg?raw=true)
+![視覺化圖表-1](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0001.jpg?raw=true)
+![視覺化圖表-2](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0002.jpg?raw=true)
+![視覺化圖表-3](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0003.jpg?raw=true)
+![視覺化圖表-4](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0004.jpg?raw=true)
+![視覺化圖表-5](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0005.jpg?raw=true)
+![視覺化圖表-6](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0006.jpg?raw=true)
+![視覺化圖表-7](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0007.jpg?raw=true)
+![視覺化圖表-8](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0008.jpg?raw=true)
+![視覺化圖表-9](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0009.jpg?raw=true)
+![視覺化圖表-10](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0010.jpg?raw=true)
+![視覺化圖表-11](https://github.com/dujun101620/591RENT-PART3-Data_Visualization/blob/main/591%E9%9B%99%E5%8C%97%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E5%B0%88%E6%A1%88_page-0011.jpg?raw=true)
   
 ## 心得總結
 
